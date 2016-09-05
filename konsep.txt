@@ -13,8 +13,8 @@ Semakin lama hari yang dipilih, semakin murah harga total yang dibayarkan
 Cara kerja sistem
 Dari sudut Customer
 1. Customer memilih catering tempat memesan
-2. Customer memilih makanan2 yang dia inginkan sesuai dengan penawaran dari daftar yang ditawarkan
-3. Pilih jumlah porsi masing masing makanan
+2. Customer menentukan harga makanan per pax
+3. Pilih banyak pax yang akan dipesan
 4. Pilih durasi (jika berlangganan) pemesanan catering (minimal 1 hari)
 5. Pilih tempat dan waktu pengiriman
 6. Checkout (bayar DP sesuai permintaan)
@@ -23,9 +23,9 @@ Dari sudut Customer
 
 Dari sudut Catering owner
 1. Pemilik menyediakan daftar makanan yang disediakan 
+	- Nama makanan
 	- Deskripsi
 	- Foto
-	- Harga
 2. Pemilik menuliskan DP yang dibutuhkan catering untuk dibayarkan customer
 3. Pemilik menunggu pesanan
 4. Pemilik mendapat notifikasi pesanan (juga melalui email)
@@ -33,7 +33,7 @@ Dari sudut Catering owner
 6. Pemilik melayani dan mengirimkan pesanan
 
 kuliner nusantara
--use case
+-use case : https://drive.google.com/file/d/0B78ZyD1ExVFxWFBIMHdhTGw0ZjA/view?usp=sharing
 -class diagram
 -erd
 
